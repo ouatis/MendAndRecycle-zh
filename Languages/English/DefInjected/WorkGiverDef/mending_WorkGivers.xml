@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LanguageData>
+		<DoBillsMending.label>mend</DoBillsMending.label>
+		<DoBillsMending.verb>mend</DoBillsMending.verb>
+		<DoBillsMending.gerund>mending</DoBillsMending.gerund>
+		<DoBillsMakeApparel.label>make apparel</DoBillsMakeApparel.label>
+		<DoBillsMakeApparel.verb>tailor</DoBillsMakeApparel.verb>
+		<DoBillsMakeApparel.gerund>tailoring at</DoBillsMakeApparel.gerund>
+	</LanguageData>

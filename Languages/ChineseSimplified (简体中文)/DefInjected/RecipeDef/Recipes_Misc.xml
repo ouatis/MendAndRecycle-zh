@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mend complex apparel -->
+  <MendComplexApparel.label>修补复杂衣物</MendComplexApparel.label>
+  <!-- EN: Mend armor. -->
+  <MendComplexApparel.description>修补护甲。</MendComplexApparel.description>
+  <!-- EN: Mending. -->
+  <MendComplexApparel.jobString>修补中。</MendComplexApparel.jobString>
+  
+  <!-- EN: repair complex weapon -->
+  <MendComplexWeapon.label>修理复杂武器</MendComplexWeapon.label>
+  <!-- EN: Repair weapon. -->
+  <MendComplexWeapon.description>修理武器。</MendComplexWeapon.description>
+  <!-- EN: Repairing. -->
+  <MendComplexWeapon.jobString>修理中。</MendComplexWeapon.jobString>
+  
+  <!-- EN: mend simple apparel -->
+  <MendSimpleApparel.label>修补简单衣物</MendSimpleApparel.label>
+  <!-- EN: Mend simple apparel. -->
+  <MendSimpleApparel.description>修补简单衣物。</MendSimpleApparel.description>
+  <!-- EN: Mending. -->
+  <MendSimpleApparel.jobString>修补中。</MendSimpleApparel.jobString>
+  
+  <!-- EN: repair simple weapon -->
+  <MendSimpleWeapon.label>修理简单武器</MendSimpleWeapon.label>
+  <!-- EN: Repair weapon. -->
+  <MendSimpleWeapon.description>修理武器。</MendSimpleWeapon.description>
+  <!-- EN: Repairing. -->
+  <MendSimpleWeapon.jobString>修理中。</MendSimpleWeapon.jobString>
+  
+  <!-- EN: recycle apparel -->
+  <RecycleApparel.label>回收衣物</RecycleApparel.label>
+  <!-- EN: Recycle apparel into their basic components. -->
+  <RecycleApparel.description>将衣物回收为原始材料。</RecycleApparel.description>
+  <!-- EN: Recycling. -->
+  <RecycleApparel.jobString>回收中。</RecycleApparel.jobString>
+  
+</LanguageData>

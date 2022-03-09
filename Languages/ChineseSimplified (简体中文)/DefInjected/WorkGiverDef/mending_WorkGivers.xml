@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make apparel -->
+  <DoBillsMakeApparel.label>制作衣物</DoBillsMakeApparel.label>
+  <!-- EN: tailoring at -->
+  <DoBillsMakeApparel.gerund>裁制于</DoBillsMakeApparel.gerund>
+  <!-- EN: tailor -->
+  <DoBillsMakeApparel.verb>裁制</DoBillsMakeApparel.verb>
+  
+  <!-- EN: mend -->
+  <DoBillsMending.label>修理</DoBillsMending.label>
+  <!-- EN: mending -->
+  <DoBillsMending.gerund>正在修理</DoBillsMending.gerund>
+  <!-- EN: mend -->
+  <DoBillsMending.verb>修理</DoBillsMending.verb>
+  
+</LanguageData>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LanguageData>
+		<MakeMendingKit.label>make mending kits</MakeMendingKit.label>
+		<MakeMendingKit.description>Crafts mending kits from materials. Produces enough to re-stock the mending table.</MakeMendingKit.description>
+		<MakeMendingKit.jobString>Crafting mending kit.</MakeMendingKit.jobString>
+	</LanguageData>

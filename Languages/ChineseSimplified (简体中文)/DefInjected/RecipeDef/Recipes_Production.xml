@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make mending kits -->
+  <MakeMendingKit.label>制作维修工具包</MakeMendingKit.label>
+  <!-- EN: Crafts mending kits from materials. Produces enough to re-stock the mending table. -->
+  <MakeMendingKit.description>使用材料制作维修包。制造足量维修包，以重新补充维修台。</MakeMendingKit.description>
+  <!-- EN: Crafting mending kit. -->
+  <MakeMendingKit.jobString>正在制作维修工具包。</MakeMendingKit.jobString>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: MendAndRecycle -->
+  <MendRecycle>修理与回收</MendRecycle>
+  
+  <!-- Settings -->
+  <!-- EN: Removes Deadman from Apparel -->
+  <MendRecycle.RemovesDeadman>是否移除“死者衣物”标签</MendRecycle.RemovesDeadman>
+  <!-- EN: Does fully fixing an apparel in the mending table remove the deadman tag? -->
+  <MendRecycle.RemovesDeadmanTooltip>通过维修台完全修复一件衣物后，是否移除“死者衣物”标签？</MendRecycle.RemovesDeadmanTooltip>
+  <!-- EN: Requires Fuel -->
+  <MendRecycle.RequiresFuel>是否消耗维修包</MendRecycle.RequiresFuel>
+  <!-- EN: Does the mending table need mending kits? (Needs restart) -->
+  <MendRecycle.RequiresFuelTooltip>维修台是否消耗维修工具包？（更改设置后需重启游戏）</MendRecycle.RequiresFuelTooltip>
+  <!-- EN: Requires Power -->
+  <MendRecycle.RequiresPower>是否需要电力</MendRecycle.RequiresPower>
+  <!-- EN: Does the mending table require power? (Needs restart) -->
+  <MendRecycle.RequiresPowerTooltip>维修台是否需要电力？（更改设置后需重启游戏）</MendRecycle.RequiresPowerTooltip>
+  
+  <!-- EN: Percentage of Max Hit Points in play -->
+  <MendRecycle.MaxHPCost>可修理的最大耐久度百分比</MendRecycle.MaxHPCost>
+  <!-- EN: Fail Chance per Tech Level -->
+  <MendRecycle.FailChances>各时代科技水平的失败几率</MendRecycle.FailChances>
+  
+</LanguageData>

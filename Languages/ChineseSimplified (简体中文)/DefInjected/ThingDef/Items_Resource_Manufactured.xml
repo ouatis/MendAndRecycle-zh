@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mending kit -->
+  <MendingKit.label>维修工具包</MendingKit.label>
+  <!-- EN: Miscellaneous cloth, bits and parts. Necessary for repairing weapons and mending apparel. -->
+  <MendingKit.description>各式各样的布料、碎片和零件。修理武器和修补衣物的必需品。</MendingKit.description>
+  
+</LanguageData>

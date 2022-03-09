@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mending -->
+  <Mending.label>修理</Mending.label>
+  <!-- EN: Mend and repair damaged items. -->
+  <Mending.description>修补和修理受损物品。</Mending.description>
+  
+</LanguageData>

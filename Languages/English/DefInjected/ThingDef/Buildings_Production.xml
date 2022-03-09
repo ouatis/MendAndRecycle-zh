@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LanguageData>
+		<TableMending.label>mending workbench</TableMending.label>
+		<TableMending.description>A workbench equipped with all the tools required to mend and repair damaged items. Requires power and consumes mending kits. Mending kits can be made in the tailoring benches.</TableMending.description>
+	</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LanguageData>
+		<MendSimpleApparel.label>mend simple apparel</MendSimpleApparel.label>
+		<MendSimpleApparel.description>Mend simple apparel.</MendSimpleApparel.description>
+		<MendSimpleApparel.jobString>Mending.</MendSimpleApparel.jobString>
+		<MendComplexApparel.label>mend complex apparel</MendComplexApparel.label>
+		<MendComplexApparel.description>Mend armor.</MendComplexApparel.description>
+		<MendComplexApparel.jobString>Mending.</MendComplexApparel.jobString>
+		<MendSimpleWeapon.label>repair simple weapon</MendSimpleWeapon.label>
+		<MendSimpleWeapon.description>Repair weapon.</MendSimpleWeapon.description>
+		<MendSimpleWeapon.jobString>Repairing.</MendSimpleWeapon.jobString>
+		<MendComplexWeapon.label>repair complex weapon</MendComplexWeapon.label>
+		<MendComplexWeapon.description>Repair weapon.</MendComplexWeapon.description>
+		<MendComplexWeapon.jobString>Repairing.</MendComplexWeapon.jobString>
+		<RecycleApparel.label>recycle apparel</RecycleApparel.label>
+		<RecycleApparel.description>Recycle apparel into their basic components.</RecycleApparel.description>
+		<RecycleApparel.jobString>Recycling.</RecycleApparel.jobString>
+	</LanguageData>
