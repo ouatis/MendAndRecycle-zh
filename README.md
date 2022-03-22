@@ -1,6 +1,6 @@
 # MendAndRecycleZH
 
-This is a Chinese language pack for the RimWorld MOD [MendAndRecycle](https://steamcommunity.com/sharedfiles/filedetails/?id=735241897)
+This is a Chinese language pack for the RimWorld MOD [MendAndRecycle](https://steamcommunity.com/sharedfiles/filedetails/?id=735241897).
 
 ## Original MOD Credit
 
