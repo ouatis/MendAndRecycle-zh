@@ -10,6 +10,14 @@
 	<loadAfter>
 		<li>notfood.MendAndRecycle</li>
 	</loadAfter>
+	<modDependencies>
+                <li>
+                <packageId>notfood.MendAndRecycle</packageId>
+                <displayName>MendAndRecycle</displayName>
+                <steamWorkshopUrl>steam://url/CommunityFilePage/735241897</steamWorkshopUrl>
+               	<downloadUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=735241897</downloadUrl>
+                </li>
+        </modDependencies>
 	<description>
 	添加了一张维修工作台，用于修补衣物和修理武器，还可以把衣物（包括死者衣物）回收成原始材料，这一点非常重要。
 	</description>
