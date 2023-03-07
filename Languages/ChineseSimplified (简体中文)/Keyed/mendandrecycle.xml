@@ -8,6 +8,10 @@
   <MendRecycle.RemovesDeadman>是否移除“死者衣物”标签</MendRecycle.RemovesDeadman>
   <!-- EN: Does fully fixing an apparel in the mending table remove the deadman tag? -->
   <MendRecycle.RemovesDeadmanTooltip>通过维修台完全修复一件衣物后，是否移除“死者衣物”标签？</MendRecycle.RemovesDeadmanTooltip>
+  <!-- EN: Uses Mending Table -->
+  <MendRecycle.UseTableMending>是否使用维修台</MendRecycle.UseTableMending>
+  <!-- EN: Does it use the mending table? (Needs restart) -->
+  <MendRecycle.UseTableMendingTooltip>是否启用维修台？（更改设置后需重启游戏）</MendRecycle.UseTableMendingTooltip>
   <!-- EN: Requires Fuel -->
   <MendRecycle.RequiresFuel>是否消耗维修包</MendRecycle.RequiresFuel>
   <!-- EN: Does the mending table need mending kits? (Needs restart) -->
